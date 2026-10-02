@@ -1,6 +1,0 @@
-{
-  "name": "Aplikasi Kasir & Pelacak Laundry",
-  "description": "Sistem fullstack laundry dengan hak akses Admin dan Pekerja, Kasir POS kiloan & satuan, saldo deposit pelanggan, antrean proses cuci, laporan omset, dan notifikasi WhatsApp.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
